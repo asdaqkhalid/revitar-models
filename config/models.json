@@ -1,22 +1,12 @@
-json{
+{
   "models": [
     {
       "id": "001",
-      "name": "IAD-Office",
-      "glb_url": "https://raw.githubusercontent.com/asdaqkhalid/revitar-models/refs/heads/main/models/IAD-office.glb",
+      "name": "IAD Office",
+      "glb_url": "https://raw.githubusercontent.com/asdaqkhalid/revitar-models/main/models/IAD%20office.glb",
       "anchor_id": "ANCHOR-A",
       "location": "Site 1",
-      "description": "IAD OFFICE KTML"
-    },
-    {
-      "id": "002",
-      "name": "Building B - Full Model",
-      "glb_url": "https://raw.githubusercontent.com/YOURNAME/revitar-models/main/models/buildingB.glb",
-      "anchor_id": "ANCHOR-B",
-      "location": "Site 2",
-      "description": "Full model of Building B"
+      "description": "IAD Office Model"
     }
   ]
 }
-```
-
