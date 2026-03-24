@@ -3,7 +3,7 @@
     {
       "id": "001",
       "name": "IAD Office",
-      "glb_url": "https://raw.githubusercontent.com/asdaqkhalid/revitar-models/main/models/IAD%20office.glb",
+      "glb_url": "https://raw.githubusercontent.com/asdaqkhalid/revitar-models/main/models/IAD-office.glb",
       "anchor_id": "ANCHOR-A",
       "location": "Site 1",
       "description": "IAD Office Model"
